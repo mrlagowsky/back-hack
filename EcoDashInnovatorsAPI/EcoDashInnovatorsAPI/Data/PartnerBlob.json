@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "AvoidsOverstocking": false,
+    "LowersEnergyUsage": false,
+    "AdaptsTechnologically": false,
+    "InventoryManagementScore": 0,
+    "UsesEcoFriendlyShipping": false,
+    "UsesEcoFriendlyPackaging": false,
+    "UsesLocalSourcing": false,
+    "StocksLongLastingProducts": false,
+    "SustainablePracticesScore": 0,
+    "CertificationScore": 0,
+    "ProductScore": 0,
+    "Certifications": []
+  },
+  {
+    "Id": 2,
+    "AvoidsOverstocking": true,
+    "LowersEnergyUsage": true,
+    "AdaptsTechnologically": false,
+    "InventoryManagementScore": 0,
+    "UsesEcoFriendlyShipping": true,
+    "UsesEcoFriendlyPackaging": true,
+    "UsesLocalSourcing": false,
+    "StocksLongLastingProducts": false,
+    "SustainablePracticesScore": 0,
+    "CertificationScore": 0,
+    "ProductScore": 0,
+    "Certifications": ["GreenSeal"]
+  },
+  {
+    "Id": 3,
+    "AvoidsOverstocking": true,
+    "LowersEnergyUsage": true,
+    "AdaptsTechnologically": true,
+    "InventoryManagementScore": 0,
+    "UsesEcoFriendlyShipping": true,
+    "UsesEcoFriendlyPackaging": true,
+    "UsesLocalSourcing": true,
+    "StocksLongLastingProducts": true,
+    "SustainablePracticesScore": 0,
+    "CertificationScore": 0,
+    "ProductScore": 0,
+    "Certifications": ["CarbonNeutral", "Organic"]
+  }
+]

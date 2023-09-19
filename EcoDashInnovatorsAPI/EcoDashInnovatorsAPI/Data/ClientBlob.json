@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "EcoFriendlyPurchases": 2,
+    "TotalPurchases": 20,
+    "Returns": 18,
+    "ProductsRecycled": 2,
+    "FeedbacksGiven": 1,
+    "EcoEventsAttended": 1,
+    "ProductScore": 0
+  },
+  {
+    "Id": 2,
+    "EcoFriendlyPurchases": 10,
+    "TotalPurchases": 20,
+    "Returns": 10,
+    "ProductsRecycled": 5,
+    "FeedbacksGiven": 5,
+    "EcoEventsAttended": 5,
+    "ProductScore": 0
+  },
+  {
+    "Id": 3,
+    "EcoFriendlyPurchases": 45,
+    "TotalPurchases": 50,
+    "Returns": 5,
+    "ProductsRecycled": 5,
+    "FeedbacksGiven": 30,
+    "EcoEventsAttended": 20,
+    "ProductScore": 0
+  }
+]
